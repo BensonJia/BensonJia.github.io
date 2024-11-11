@@ -21,13 +21,13 @@ repository               : "bensonjia/bensonjia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "证件照.jpg"
   name             : "Bohui Jia"
   pronouns         : # example: "she/her"  
   bio              : "Streben nach Wahrheit"
   location         : "Birmingham, UK"
-  employer         : "University of Birmingham\n Harbin Institute of Technology"
-  email            : "redjgray@foxmail.org" 
+  employer         : "UoB & HITwh"
+  email            : "redjgray@foxmail.com" 
 
   # Academic websites
 #  arxiv            : # URL - Update with the correct link to your profile
