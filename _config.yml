@@ -25,8 +25,8 @@ author:
   name             : "Bohui Jia"
   pronouns         : # example: "she/her"  
   bio              : "Streben nach Wahrheit"
-  location         : "University of Birmingham, Birmingham, UK"
-#  employer         : ""
+  location         : "Birmingham, UK"
+  employer         : "University of Birmingham\n Harbin Institute of Technology"
   email            : "redjgray@foxmail.org" 
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
 #  bitbucket        : # Username - Update with your username on the site
 #  codepen          : # Username
 #  dribbble         : # Username
-#  github           : "academicpages"
+  github           : "github.com/BensonJia"
 #  kaggle           : # Username  
 #  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
