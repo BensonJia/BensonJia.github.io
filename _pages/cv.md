@@ -54,7 +54,7 @@ Publications
  * 6th Author, Time-varying control: a new concept for real-time control of renewable energy stations, The 2nd International Conference on Smart Electrical Grid and Renewable Energy, accepted  
  * 4th Author, Fast Reactive Power Flow Control of Active Distribution Network Based on Distributed Time-Varying Optimization Algorithm, The 2nd International Conference on Smart Electrical Grid and Renewable Energy, accepted
 
-** Patents **
+Patents
 ======  
 * Second Author, Utility Model Patent, A Self-propelled Transport Device for Walnut Picking, CN220662368U  
 * Second Author, Utility Model Patent, An Integrated Machine for Picking, Collecting, and Transporting Walnuts, CN220733589U  
